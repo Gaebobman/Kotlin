@@ -4,8 +4,8 @@
 </p>
 <p>
     `21.07.05 <hr>
-    View and Layout(HBD Card)<hr>
-    Object(Dice Roller)<hr>
+    View and Layout(HBD Card)<br>
+    Object(Dice Roller)<br>
 </p>
 </body>
 </body>
