@@ -10,6 +10,9 @@
     <hr>
     `21.07.07 <br><br>
     조건절의 리턴값을 사용하여 drawableResource를 세팅 (Dice Roller)<br>
-    상속 (abstract class, open class)<br>
-    with 키워드<br>
+    상속 (abstract class, open class), with 키워드 (Inheritance.kt)<br>
+    <hr>
+    `21.07.08 <br><br>
+    XML - ConstraintLayout의 사용법
+    뷰 결합(View Binding)의 사용법 (Tip Time)
 </p>
