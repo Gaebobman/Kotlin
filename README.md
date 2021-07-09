@@ -13,6 +13,13 @@
     상속 (abstract class, open class), with 키워드 (Inheritance.kt)<br>
     <hr>
     `21.07.08 <br><br>
-    XML - ConstraintLayout의 사용법
-    뷰 결합(View Binding)의 사용법 (Tip Time)
+    XML - ConstraintLayout의 사용법<br>
+    뷰 결합(View Binding)의 사용법 (Tip Time)<br>
+    <hr>
+    `21.07.09 <br><br>
+    App Theme의 수정법 <br>
+    App Icon의 설정 및 수정법<br>
+    <a href ="https://material.io/">Material Design</a> 표준 사용법(Tip Time)<br>
+
+
 </p>
