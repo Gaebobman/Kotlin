@@ -30,8 +30,15 @@
     vararg 수정자를 사용하여 가변적인 인수 수를 함수 또는 Constructor에 제공하는 방법 (List2.kt)<br>
     <hr>
     `21.07.11 <br><br>
-    Builder pattern 사용법(List2.kt)<br>
+    Builder pattern 사용법(List2.kt)<br><br>
     RecyclerView 사용법<br>
     Adapter pattern을 사용한 데이터 조정 및 표시법 (Affirmations)<br>
+    <hr>
+    `21.07.12 <br><br>
+    이미지 리소스 추가법<br>
+    MaterialCardView 사용법<br>
+    리소스 주석 사용법 (Affirmations)<br>
+    Collection, forEach문 (Collection_Set.kt, Collection_Map.kt)<br>
+    람다식, 고차함수 (Lambda.kt)<br>
 
 </p>
