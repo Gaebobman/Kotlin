@@ -40,5 +40,14 @@
     리소스 주석 사용법 (Affirmations)<br><br>
     Collection, forEach문 (Collection_Set.kt, Collection_Map.kt)<br><br>
     람다식, 고차함수 (Lambda.kt)<br><br>
-
+    <hr>
+    `21.07.13 <br><br>
+    Activity간 전환 <br>
+    <a href = "https://developer.android.com/guide/components/intents-filters?hl=ko">Implicit/Explicit Intent </a><br>
+    <a href = "https://kotlinlang.org/docs/object-declarations.html#companion-objects">Companion object </a><br>
+    앱바에 메뉴 추가 (android-basics-kotlin-words-app)<br><br>
+    <a href = "https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ko"> Activity Lifecycle and Methods</a><br>
+    Logcat에 로그 출력하기<br>
+    <a href = "https://developer.android.com/guide/topics/resources/runtime-changes?hl=ko">구성변경(configuration changes)처리법</a><br>
+    (android-basics-kotlin-dessert-clicker-app)<br>
 </p>
