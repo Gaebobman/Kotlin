@@ -37,8 +37,8 @@
     `21.07.12 <br><br>
     이미지 리소스 추가법<br>
     MaterialCardView 사용법<br>
-    리소스 주석 사용법 (Affirmations)<br>
-    Collection, forEach문 (Collection_Set.kt, Collection_Map.kt)<br>
-    람다식, 고차함수 (Lambda.kt)<br>
+    리소스 주석 사용법 (Affirmations)<br><br>
+    Collection, forEach문 (Collection_Set.kt, Collection_Map.kt)<br><br>
+    람다식, 고차함수 (Lambda.kt)<br><br>
 
 </p>
