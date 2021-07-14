@@ -48,6 +48,12 @@
     앱바에 메뉴 추가 (android-basics-kotlin-words-app)<br><br>
     <a href = "https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ko"> Activity Lifecycle and Methods</a><br>
     Logcat에 로그 출력하기<br>
-    <a href = "https://developer.android.com/guide/topics/resources/runtime-changes?hl=ko">구성변경(configuration changes)처리법</a><br>
+    <a href = "https://developer.android.com/guide/topics/resources/runtime-changes?hl=ko">구성변경</a>(configuration changes)처리법<br>
     (android-basics-kotlin-dessert-clicker-app)<br>
+    <hr>
+     `21.07.14 <br><br>
+     <a href = "https://developer.android.com/guide/fragments">Fragment</a> and <a href = "https://developer.android.com/guide/fragments/lifecycle"> Fragment LifeCycle</a><br>
+     Null Safety<br>
+     JetPack: Navigation Component<br>
+
 </p>
