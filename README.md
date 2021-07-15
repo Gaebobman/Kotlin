@@ -55,5 +55,7 @@
      <a href = "https://developer.android.com/guide/fragments">Fragment</a> and <a href = "https://developer.android.com/guide/fragments/lifecycle"> Fragment LifeCycle</a><br>
      Null Safety<br>
      JetPack: Navigation Component<br>
-
+    <hr>
+     `21.07.15<br><br>
+     JetPack: NavGraph, 제트팩은 따로 더 공부해야겠음 버그 수정<br>
 </p>
