@@ -57,5 +57,6 @@
      JetPack: Navigation Component<br>
     <hr>
      `21.07.15<br><br>
-     JetPack: NavGraph, 제트팩은 따로 더 공부해야겠음 버그 수정<br>
+     JetPack: <a href = "https://developer.android.com/reference/androidx/fragment/app/FragmentContainerView">FragmentContainerView</a> -> NavGraph<br>
+     <a href ="https://developer.android.com/guide/navigation/navigation-pass-data">SafeArgs</a> <br>
 </p>
