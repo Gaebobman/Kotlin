@@ -62,7 +62,8 @@
      <hr>
      `21.07.19<br><br>
      <a href = "https://developer.android.com/jetpack/guide?hl=ko#common-principles"> 아키텍처 원칙(단일 책임 원칙)</a><br>
-     <a href = "https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ko">ViewModel </a><br>
-     지원속성<br>
-     속성위임<br>
+     <a href = "https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ko">ViewModel </a>과 ViewModel의 수명주기<br>
+     지원속성, 속성위임<br>
+     <a href = "https://material.io/components/dialogs/android">Dialog</a> <br>
+     후행 람다 구문<br>
 </p>
