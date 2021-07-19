@@ -59,4 +59,10 @@
      `21.07.15<br><br>
      JetPack: <a href = "https://developer.android.com/reference/androidx/fragment/app/FragmentContainerView">FragmentContainerView</a> -> NavGraph<br>
      <a href ="https://developer.android.com/guide/navigation/navigation-pass-data">SafeArgs</a> <br>
+     <hr>
+     `21.07.19<br><br>
+     <a href = "https://developer.android.com/jetpack/guide?hl=ko#common-principles"> 아키텍처 원칙(단일 책임 원칙)</a><br>
+     <a href = "https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ko">ViewModel </a><br>
+     지원속성<br>
+     속성위임<br>
 </p>
