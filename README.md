@@ -66,4 +66,9 @@
      지원속성, 속성위임<br>
      <a href = "https://material.io/components/dialogs/android">Dialog</a> <br>
      후행 람다 구문<br>
+     <hr>
+     `21.07.20<br><br>
+     <a href = "https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a><br>
+     데이터결합(DataBinding) ,결합 표현식<br>
+    음성 안내 지원<br>
 </p>
