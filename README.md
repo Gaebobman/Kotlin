@@ -61,7 +61,7 @@
      <a href ="https://developer.android.com/guide/navigation/navigation-pass-data">SafeArgs</a> <br>
      <hr>
      `21.07.19<br><br>
-     <a href = "https://developer.android.com/jetpack/guide?hl=ko#common-principles"> 아키텍처 원칙(단일 책임 원칙)</a><br>
+     <a href = "https://developer.android.com/jetpack/guide?hl=ko#common-principles"> 아키텍처 원칙(단일 책임 원칙)</a>, 참고:<a href ="https://developer.android.com/jetpack/guide?authuser=1&hl=ko">앱 아키텍처 가이드</a> <br>
      <a href = "https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ko">ViewModel </a>과 ViewModel의 수명주기<br>
      지원속성, 속성위임<br>
      <a href = "https://material.io/components/dialogs/android">Dialog</a> <br>
