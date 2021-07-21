@@ -61,14 +61,18 @@
      <a href ="https://developer.android.com/guide/navigation/navigation-pass-data">SafeArgs</a> <br>
      <hr>
      `21.07.19<br><br>
-     <a href = "https://developer.android.com/jetpack/guide?hl=ko#common-principles"> 아키텍처 원칙(단일 책임 원칙)</a>, 참고:<a href ="https://developer.android.com/jetpack/guide?authuser=1&hl=ko">앱 아키텍처 가이드</a> <br>
+     <a href = "https://developer.android.com/jetpack/guide?hl=ko#common-principles"> 아키텍처 원칙(단일 책임 원칙)</a>, 참고:<a href ="https://developer.android.com/jetpack/guide?authuser=1&hl=ko"> 앱 아키텍처 가이드</a> <br>
      <a href = "https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ko">ViewModel </a>과 ViewModel의 수명주기<br>
      지원속성, 속성위임<br>
      <a href = "https://material.io/components/dialogs/android">Dialog</a> <br>
-     후행 람다 구문<br>
+     후행 람다 구문 (Unscramble-app)<br>
      <hr>
      `21.07.20<br><br>
      <a href = "https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a><br>
-     데이터결합(DataBinding) ,결합 표현식<br>
-    음성 안내 지원<br>
+     데이터결합(DataBinding), 결합 표현식<br>
+     음성 안내 지원<br>
+     <hr>
+     `21.07.21<br><br>
+     <a href = "https://developer.android.com/topic/libraries/architecture/viewmodel.html#sharing">Shared ViewModel</a>(공유 뷰 모델)<br>
+     <a href = "https://kotlinlang.org/docs/scope-functions.html#function-selection">Scope function</a>(범위함수) - apply<br>
 </p>
