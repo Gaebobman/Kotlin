@@ -75,6 +75,10 @@
      `21.07.21<br><br>
      <a href = "https://developer.android.com/topic/libraries/architecture/viewmodel.html#sharing">Shared ViewModel</a>(공유 뷰 모델)<br>
      <a href = "https://kotlinlang.org/docs/scope-functions.html#function-selection">Scope function</a>(범위함수) - apply<br>
+     <hr>
      `21.07.22<br><br>
      Calendar 객체와 SimpleDateFormat (Cupcake-app)<br>
+     <hr>
+     `21.07.26<br><br>
+     LifeCycle - <a href ="https://developer.android.com/reference/androidx/lifecycle/Transformations.html?hl=ko#map(androidx.lifecycle.LiveData%3CX%3E,%20androidx.arch.core.util.Function%3CX,%20Y%3E)">Transformations</a>
 </p>
