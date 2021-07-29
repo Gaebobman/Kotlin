@@ -81,4 +81,9 @@
      <hr>
      `21.07.26<br><br>
      LifeCycle - <a href ="https://developer.android.com/reference/androidx/lifecycle/Transformations.html?hl=ko#map(androidx.lifecycle.LiveData%3CX%3E,%20androidx.arch.core.util.Function%3CX,%20Y%3E)">Transformations</a>
+     <hr>
+     `21.07.29<br><br>
+     탐색 - 백 스택 (popUpTo, popUpToInclusive 속성 사용법)<br>
+     plurals 리소스를 사용한 문자열 리소스 선택 (Cupcake-app)<br>
+     
 </p>
