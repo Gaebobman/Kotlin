@@ -85,5 +85,4 @@
      `21.07.29<br><br>
      탐색 - 백 스택 (popUpTo, popUpToInclusive 속성 사용법)<br>
      plurals 리소스를 사용한 문자열 리소스 선택 (Cupcake-app)<br>
-     
 </p>
