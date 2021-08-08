@@ -85,4 +85,14 @@
      `21.07.29<br><br>
      탐색 - 백 스택 (popUpTo, popUpToInclusive 속성 사용법)<br>
      plurals 리소스를 사용한 문자열 리소스 선택 (Cupcake-app)<br>
+    <hr>
+     `21.07.31<br><br>
+     Concurrency, Race Condition<br>
+     스레드, 코루틴(corountine) <br>
+     runBlocking<br>
+     Rest Architecture<br>
+    <hr>
+     `21.08.08<br><br>
+     Retrofit 라이브러리로 REST 웹 서비스 사용, 코루틴 사용<br>
+     Moshi 라이브러리로 JSON 응답을 LiveData로 파싱<br>
 </p>
