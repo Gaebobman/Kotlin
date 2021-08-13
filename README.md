@@ -95,4 +95,8 @@
      `21.08.08<br><br>
      Retrofit 라이브러리로 REST 웹 서비스 사용, 코루틴 사용<br>
      Moshi 라이브러리로 JSON 응답을 LiveData로 파싱<br>
+    <hr>
+    `21.08.13<br><br>
+    BindingAdapter<br>
+    자리 표시자 이미지<br>  
 </p>
